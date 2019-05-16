@@ -19,3 +19,7 @@ REFERENCES:
 [5] Saab, W., Ben-Tzvi, P., "Development of a Novel Coupling Mechanism for Modular Self-Reconfigurable Mobile Robots", PProceedings of the 2015 ASME IDETC/CIE, 39th Mechanisms & Robotics Conference, Boston, MA, Aug. 2–5, 2015.
 
 [6] Saab, W., Ben-Tzvi, P., "A Genderless Coupling Mechanism with 6-DOF Misalignment Capability for Modular Self-Reconfigurable Robots," Journal of Mechanisms and Robotics, Transactions of the ASME, Vol. 8, Issue 6, pp. 061014: 1-9, December 2016.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+Website - http://www.rmlab.org/index.html
+LinkedIn - https://www.linkedin.com/in/shubh94sohal/
