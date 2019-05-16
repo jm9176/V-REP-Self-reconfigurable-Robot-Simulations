@@ -6,6 +6,7 @@ Hybrid-Manipulator Mobile Robot - Capable of object manipulation along wih track
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
+REFERENCES:
 
 [1] Sohal, S. S., Ben-Tzvi, P., “Image-Based Motion Analysis for Self-Reconfigurable Mobile Robot with Integrated Docking”, Proceedings of the 2019 ASME IDETC/CIE, 43rd Mechanisms and Robotics Conference, Anaheim, California, Aug. 18-21, 2019. Accepted.
 
