@@ -1,8 +1,10 @@
 # V-REP Simulation Models of Self-reconfigurable Mobile Robots
 
-**Hybrid-Wheeled Locmotion Robot - Capable of providing bi-directional mobility along longitudinal and lateral direction.
+Hybrid-Wheeled Locmotion Robot - Capable of providing bi-directional mobility along longitudinal and lateral direction.
+
 Hybrid-Manipulator Mobile Robot - Capable of object manipulation along wih tracked based locomotion
 
+-----------------------------------------------------------------------------------------------------------------------------------------
 
 
 [1] Sohal, S. S., Ben-Tzvi, P., “Image-Based Motion Analysis for Self-Reconfigurable Mobile Robot with Integrated Docking”, Proceedings of the 2019 ASME IDETC/CIE, 43rd Mechanisms and Robotics Conference, Anaheim, California, Aug. 18-21, 2019. Accepted.
