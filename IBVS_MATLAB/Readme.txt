@@ -1,0 +1,1 @@
+The files are related to the Robotics and Vision toolbox in order to simulate the motion of the self-reconfigurable robot relative to a RGB-based visual marker. The corresponding V-REP simulation models has been added to the main directory (V-REP-Simulations)
