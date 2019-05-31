@@ -6,11 +6,11 @@ clc
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % Rotation is considered about y-axis
-%% Basic camera parameters
+% Basic camera parameters
 cam=CentralCamera('focal',0.035,'pixel',1.8e-04,'resolution',[640,480]);
 
 % Defining a landmark coordinates for three LED point w.r.t world frame
-%% change the co-ordinates in the VisualServo.m
+% change the co-ordinates in the VisualServo.m
 p1=[-0.1 0 0.5]';       
 p2=[0 0 0.5]';
 p3=[0.1 0 0.5]';
@@ -18,7 +18,7 @@ p3=[0.1 0 0.5]';
 % Combined 3x3 co-ordinate position matrix for the landmark
 P=[p1 p2 p3];
 
-%% Camera projection for the world points
+% Camera projection for the world points
 p01=cam.project(p1);
 p02=cam.project(p2);
 p03=cam.project(p3);
@@ -34,7 +34,7 @@ p0=[p01 p02 p03];
  Tc0=SE3(-0.1,-0.1,0.2)*SE3.Ry(pi/10);    % Change the value of Tc0 in VisualServo.m
 % Tc0=SE3(-0.1,0,0.2);
 
-%% Displacing the camera along the -ve X-axis by 0.5 unit
+% Displacing the camera along the -ve X-axis by 0.5 unit
 px1=cam.project(p1,'pose',Tc0);
 px2=cam.project(p2,'pose',Tc0);
 px3=cam.project(p3,'pose',Tc0);
@@ -48,7 +48,7 @@ Shift_1=(px1-px2);
 Shift_2=(px2-px3);
 
 % pStar=bsxfun(@plus,[-200 0 200;0 0 0],cam.pp');
-%Center point and 3-point matrix
+% Center point and 3-point matrix
 p_center=[320 320 320;240 240 240];
 p_c0=[320 240]';
 
