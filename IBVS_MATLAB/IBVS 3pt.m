@@ -1,14 +1,5 @@
 clear all
 clc
-                                                            %%codegen
-                    %%%%%%%%% CHANGES %%%%%%%%%
-% Overlapping in the feature error curve
-% Plot the axis rotation of the camera
-
-% Final co-ordinates are amrked in IBVS
-
-% The screen PPI value is 141 and the generated 640x480 image plane is
-% correct to its actual value and has been verified with the ruler as well.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Define the world-points for the landmarks in the VisualServo function %
