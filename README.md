@@ -5,10 +5,14 @@ Hybrid-Wheeled Locmotion Robot - Capable of providing bi-directional mobility al
 ![image](https://user-images.githubusercontent.com/50490953/58739534-b4bd7300-83d8-11e9-8f27-c75eddb215c1.png)
 
 
-Hybrid-Manipulator Mobile Robot - Capable of object manipulation along wih tracked based locomotion
+Hybrid-Manipulator Mobile Robot - Capable of object manipulation along wih tracked based locomotion.
 
 ![image](https://user-images.githubusercontent.com/50490953/58739568-f9490e80-83d8-11e9-9203-debe6d2f8342.png)
 
+
+Locomotion robot with integrated 2d Laser scanner to detect the obstacles. 
+
+![image](https://user-images.githubusercontent.com/50490953/58752200-04ec1200-8479-11e9-997e-36ec65d24db7.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
